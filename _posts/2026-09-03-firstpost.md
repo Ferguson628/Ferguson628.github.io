@@ -8,8 +8,11 @@ mathjax: false
 author: M Ferguson
 ---
 
-Quick facts: I am a senior math major (class of 2027) with a minor in Spanish. I'm from Lawrence Township, NJ, spend the summers working as a camp counselor and living with my grandparents in San Diego, and I studied abroad Spring 2026 in Buenos Aires, Argentina.  
-I have some limited sewing experience, mostly embroidery and mending by hand (see figure 1-3 below) though I got ambitious last winter break and broke out the sewing machine to make a pencil case for my best friend's birthday (see fig. 4)
+### Quick facts: 
+I am a senior math major (class of 2027) with a minor in Spanish. I'm from Lawrence Township, NJ, spend the summers working as a camp counselor and living with my grandparents in San Diego, and I studied abroad Spring 2026 in Buenos Aires, Argentina.  
+
+### My (sewing/programming/Arduino) experience
+I have some limited sewing experience, mostly embroidery and mending by hand (see figure 1-3 below) though I got ambitious last winter break and broke out the sewing machine to make a pencil case for my best friend's birthday (see fig. 4).
 
  
  your sewing experience, your programming experience, your circuitry/Arduino experience, what you hope to learn in this class, and one boring fact about you.
