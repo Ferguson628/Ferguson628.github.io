@@ -144,8 +144,8 @@ navbar-text-col: "#FCFCFC"
 navbar-border-col: "#F4320B"
 footer-col: "#F7C94A"
 footer-text-col: "#FCFCFC"
-footer-link-col: "#ABE3EB"
-footer-hover-col: "#B32D15"
+footer-link-col: "#B32D15"
+footer-hover-col: "#6EB7CC"
 # new yellow F7C94A
 # old red-orange header/footer color #B32D15
 # old blue hover color 6EB7CC
