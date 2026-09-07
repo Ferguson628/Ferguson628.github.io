@@ -14,8 +14,8 @@ I am a senior math major (class of 2027) with a minor in Spanish. I'm from Lawre
 ### My (sewing/programming/Arduino) experience
 I have some limited sewing experience, mostly embroidery and mending by hand (see figures 1-3 below) though I got ambitious last winter break and broke out the sewing machine to make a pencil case for my best friend's birthday (see fig. 4). I brought the sewing machine with me to school this year in anticipation for both this course and various project ideas I have (mostly sewing patches/things onto my clothes).  
 
-![LEGO killer moth tote bag](https://ferguson628.github.io/assets/img/IMG_9463.jpeg) 
-Figure 1. LEGO killer moth tote bag
+![LEGO Killer Moth tote bag](https://ferguson628.github.io/assets/img/IMG_9463.jpeg) 
+Figure 1. LEGO Killer Moth tote bag
 
 ![Mended corduroy pants](https://ferguson628.github.io/assets/img/IMG_8472.jpeg) 
 Fig. 2. Mended corduroy pants
