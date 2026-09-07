@@ -1,13 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: M Ferguson
+subtitle: Why I am taking Electronic Textiles
 ---
 
-I am a senior math major 
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have a few reasons to take Electronic Textiles:
+1. I like textiles (historically embroidery, mending, and crochet in particular)!
+2. I enjoyed working with Arduino in Creating with Gadgets and I'm excited to do more of that!
+3. I am taking two 300 level math classes and senior seminar, so I'm glad to balance out my schedule with a 100 level class that is very in line with my interests!
