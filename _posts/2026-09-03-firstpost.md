@@ -12,10 +12,22 @@ author: M Ferguson
 I am a senior math major (class of 2027) with a minor in Spanish. I'm from Lawrence Township, NJ, spend the summers working as a camp counselor and living with my grandparents in San Diego, and I studied abroad Spring 2026 in Buenos Aires, Argentina.  
 
 ### My (sewing/programming/Arduino) experience
-I have some limited sewing experience, mostly embroidery and mending by hand (see figure 1-3 below) though I got ambitious last winter break and broke out the sewing machine to make a pencil case for my best friend's birthday (see fig. 4).
+I have some limited sewing experience, mostly embroidery and mending by hand (see figures 1-3 below) though I got ambitious last winter break and broke out the sewing machine to make a pencil case for my best friend's birthday (see fig. 4). I brought the sewing machine with me to school this year in anticipation for both this course and various project ideas I have (mostly sewing patches/things onto my clothes).  
+
+![LEGO killer moth tote bag](https://ferguson628.github.io/assets/img/IMG_9463.jpeg) 
+Figure 1. LEGO killer moth tote bag
+
+![Mended corduroy pants](https://ferguson628.github.io/assets/img/IMG_8472.jpeg) 
+Fig. 2. Mended corduroy pants
+
+![Mended quarter-zip sweater](https://ferguson628.github.io/assets/img/IMG_9754.jpeg) 
+Fig. 3. Mended quarter-zip sweater
+
+![Pencil Case](https://ferguson628.github.io/assets/img/IMG_7770.jpeg) 
+Fig. 4. Pencil case, made with sewing machine
 
  
- your sewing experience, your programming experience, your circuitry/Arduino experience, what you hope to learn in this class, and one boring fact about you.
+your programming experience, your circuitry/Arduino experience, what you hope to learn in this class, and one boring fact about you.
 
 
 
