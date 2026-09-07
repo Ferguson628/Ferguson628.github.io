@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Electronic Textiles
 
 # Your name to show in the footer
 author: M Ferguson
@@ -22,9 +22,8 @@ author: M Ferguson
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Play the daily SET puzzle: "https://anniehu.com/set/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
