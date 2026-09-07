@@ -26,8 +26,17 @@ Fig. 3. Mended quarter-zip sweater
 ![Pencil Case](https://ferguson628.github.io/assets/img/IMG_7770.jpeg) 
 Fig. 4. Pencil case, made with sewing machine
 
- 
-your programming experience, your circuitry/Arduino experience, what you hope to learn in this class, and one boring fact about you.
+As for programming/Arduino, I took COMP 118 in Spring 2024, and PHYS 103, Creating with Gadgets, in Fall 2025. Looking at code, namely for Arduino, I usually have a good sense of what's going on, but when writing it myself I may not remember all the functions or syntax. Here is the final project I made for Creating with Gadgets (a wearable stitch/row counter for crochet):
+
+![Stitch Counter pic. 1](https://ferguson628.github.io/assets/img/gadget1.jpeg) 
+
+![Stitch Counter pic. 2](https://ferguson628.github.io/assets/img/gadget2.jpg)
+
+![Stitch Counter pic. 3](https://ferguson628.github.io/assets/img/gadget3.jpeg)
+
+Figures 5-7. Stitch counter made in Gadgets
+
+what you hope to learn in this class, and one boring fact about you.
 
 
 
