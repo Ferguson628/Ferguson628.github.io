@@ -7,7 +7,7 @@ comments: false
 mathjax: false
 author: M Ferguson
 ---
-For this project, we designed a wristband with an LED and two homemade switches. One switch is a metal snap to open/close the wristband. The other consists of a paperclip connected to some insulated conductive thread on one end, and conductive fabric (hidden by a felt patch) on the other. I embroidered a sun around the yellow LED and made the patch look like a tree. 
+For this project, we designed a wristband with an LED and two homemade switches. One switch is a metal snap to open/close the wristband. The other consists of a paperclip connected to some insulated conductive thread on one end, and conductive fabric (hidden by a felt patch) on the other. I embroidered a sun around the yellow LED and made the patch look like a tree. Despite aesthetic considerations, I decided to put the battery on the front for sensory reasons. 
 
 Here is the paper prototype of my wristband:
 ![Switch Band Paper Prototype](https://ferguson628.github.io/assets/img/SBpp.jpeg) 
