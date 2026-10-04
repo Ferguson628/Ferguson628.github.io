@@ -20,4 +20,4 @@ Here is the front and back of my completed wristband:
 
 I may hot glue a second layer of felt as a backing.
 
-My biggest tip would be to hot glue the felt to the conductive fabric rather than sew it. First I tried sewing them together, but the paperclip kept catching on the stitches. Then I hot glued over the stitches on both sides but that caused some crazy friction that made it incredible hard to slide the paperclip on and off. So finally I had to cut that part off and just hot glue between the felt and conductive fabric along that edge, which worked like a charm. 
+My biggest tip would be to hot glue the felt to the conductive fabric rather than sew it. First I tried sewing them together, but the paperclip kept catching on the stitches. Then I hot glued over the stitches on both sides but that caused some crazy friction that made it incredibly hard to slide the paperclip on and off. So finally I had to cut that part off and just hot glue between the felt and conductive fabric along that edge, which worked like a charm. 
