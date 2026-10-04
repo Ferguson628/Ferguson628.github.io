@@ -16,7 +16,7 @@ I then tested the design with alligator clips. Here is my alligator clip prototy
 ![Switch Band Alligator Clip Prototype](https://ferguson628.github.io/assets/img/SBacp.jpeg) 
 
 Here is the front and back of my completed wristband: 
-![Completed Switch Band front & back](https://ferguson628.github.io/assets/img/SBfb.jpeg) 
+![Completed Switch Band front & back](https://ferguson628.github.io/assets/img/SBfb.png) 
 I may hot glue a second layer of felt as a backing.
 
 My biggest tip would be ___.
