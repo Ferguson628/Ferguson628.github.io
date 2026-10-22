@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ghost Detector~
+title: ~Ghost Detector~
 subtitle: 
 tags: 
 comments: false
