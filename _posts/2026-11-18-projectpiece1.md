@@ -22,28 +22,33 @@ My first final project piece will be a 3D Omnidroid (from *The Incredibles* (200
 - 1 coin cell battery
 - 1 red LED
 - 1 blue LED
+- 1 button
 - ~21 black pipe cleaners
 - Black acrylic paint
 - Black Sharpie marker
-- (Pins – used in the process, though not the final product)
+- (Sewing pins – used extensively in the process, though not the final product)
 
 ### Paper Prototype
-Below are my two "paper protoypes" (one more polished circuit diagram and one actually paper/to-scale).
+Below are my two "paper protoypes" (one more polished circuit diagram and one actually made of paper and to-scale).
+
 ![Omnidroid Paper Prototype 1](https://ferguson628.github.io/assets/img/omnidroid_circuit.png)
 ![Omnidroid Paper Prototype 2](https://ferguson628.github.io/assets/img/omnidroidpaper.jpeg)
 
 ### Alligator Clip Prototype
 Below is my working prototype made with alligator clips, with the button pressed.
+
 ![Omnidroid Alligator Clip Prototype](https://ferguson628.github.io/assets/img/omnidroidalligator.jpeg)
 
 ### Progress Pictures
 Here are some pictures of the omnidroid during the process of making it:
+
 ![Omnidroid Progress 1](https://ferguson628.github.io/assets/img/omnidroidprocesspic1.jpeg)
 ![Omnidroid Progress 2](https://ferguson628.github.io/assets/img/omnidroidprocesspic2.jpeg)
-![Omnidroid Progress 3](https://ferguson628.github.io/assets/img/omnidroidprocesspic2.jpeg)
+![Omnidroid Progress 3](https://ferguson628.github.io/assets/img/omnidroidprocesspic3.jpeg)
 
 ### Final Result
 Though I still need to make/attach a couple more pipe cleaner legs, here is essentially the final product!
+
 ![Omnidroid Final 2](https://ferguson628.github.io/assets/img/omnidroidfinal1.jpeg)
 ![Omnidroid Final 2](https://ferguson628.github.io/assets/img/omnidroidfinal2.jpeg)
 
